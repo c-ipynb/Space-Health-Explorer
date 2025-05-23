@@ -40,7 +40,7 @@ Analyze astronaut health records to understand how space missions impact human p
 
 ## 👤 About Me
 
-I'm a medical doctor currently transitioning into data science. I’m passionate about futuristic technology—especially where space, health, and AI intersect.  
+I’m passionate about futuristic technology—especially where space, health, and AI intersect.  
 This project blends my clinical background with new data science skills.
 
 ---
@@ -48,4 +48,4 @@ This project blends my clinical background with new data science skills.
 ## 📬 Contact
 
 - GitHub: [@c-ipynb](https://github.com/c-ipynb)
-- Email: covenant.usanga@yahoo.com
+
