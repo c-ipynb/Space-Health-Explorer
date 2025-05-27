@@ -48,4 +48,5 @@ This project blends my clinical background with new data science skills.
 ## 📬 Contact
 
 - GitHub: [@c-ipynb](https://github.com/c-ipynb)
+- Email: c.ovenant@tutanota.com
 
